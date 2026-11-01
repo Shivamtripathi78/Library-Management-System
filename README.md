@@ -73,7 +73,3 @@ g++ -std=c++17 main.cpp Book.cpp LibraryManager.cpp -o LibrarySystem.exe
 **Shivam Tripathi**
 
 GitHub: [Shivamtripathi78](https://github.com/Shivamtripathi78)
-
-## License
-
-This project is intended for educational and learning purposes.
