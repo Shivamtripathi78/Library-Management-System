@@ -1,0 +1,3 @@
+101|The Alchemist|Paulo Coelho|
+102|Rich Dad Poor Dad|Robert Kiyosaki|
+103|Atomic Habits|James Clear|
